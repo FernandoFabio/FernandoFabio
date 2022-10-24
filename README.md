@@ -5,7 +5,7 @@
 
 -💻 I'm Developer in Senai Cimatec 
 
--📩 You e-mail me in fernandofabio31@gmail.com 
+-📩 You can e-mail me in fernandofabio31@gmail.com 
 
 -🌐 I speak Portuguese, English and a little bit Spanish 
 
