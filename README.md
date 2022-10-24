@@ -7,7 +7,7 @@
 
 -📩 You e-mail me in fernandofabio31@gmail.com 
 
--🌐 I speak Portuguese and English and a little bit Spanish 
+-🌐 I speak Portuguese, English and a little bit Spanish 
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
